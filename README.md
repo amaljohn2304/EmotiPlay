@@ -4,7 +4,7 @@ Plays music depending on the facial expression detected.
 The Emotion detection can detect Anger, Surprise, Neutral, Sad and Hapiness
 Songs have been made for Happy, Sad and Neutral
 
-The program requires following packages to funtion :
+The program requires following packages to funtion :                                                                                                                               
         pip3 install --user --upgrade tensorflow
         pip install opencv-python
         pip install numpy
