@@ -12,6 +12,7 @@ The program requires following packages to funtion :
 --------pip install numpy
 ---------
 --------pip install playsound     //optional as i have used winsound which is inbuilt
+--------
 ##Configuration
 In the Music folder each Folder contains music for the Respective emotion
 More music can be added to the folder by following the pattern of naming observed in each folder
