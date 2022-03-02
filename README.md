@@ -6,8 +6,11 @@ Songs have been made for Happy, Sad and Neutral
 ##Setup
 The program requires following packages to funtion :                                                                                                                               
 --------pip3 install --user --upgrade tensorflow
+--------
 --------pip install opencv-python
+--------
 --------pip install numpy
+---------
 --------pip install playsound     //optional as i have used winsound which is inbuilt
 ##Configuration
 In the Music folder each Folder contains music for the Respective emotion
