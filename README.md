@@ -7,7 +7,7 @@ Setup
 -----------
 The program requires following packages to funtion :                                                                                                                               
 pip3 install --user --upgrade tensorflow<br/><br/>
-pip install opencv-python<br/><br/>
+pip install opencv-python<br/>
 pip install numpy<br/>
 pip install playsound     //optional as i have used winsound which is inbuilt<br/>
 
